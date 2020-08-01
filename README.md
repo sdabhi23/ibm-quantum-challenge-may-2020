@@ -1,6 +1,10 @@
 # IBM Quantum Challenge exercises
 
-Original version of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge).
+My solution of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sdabhi23/ibm-quantum-challenge-2020/master)
+
+The original version is available on [qiskit-community/may4_challenge_exercises](https://github.com/qiskit-community/may4_challenge_exercises)
 
 ## What's in this repository?
 
@@ -30,7 +34,3 @@ If you are experiencing problems when validating the exercises, try the followin
 ## Where is the conversation happening?
 
 There is a channel (`#ibm-quantum-challenge`) dedicated to the Challenge in [Qiskit Slack](http://qisk.it/slack). Join the conversation!
-
-## Feedback about the challenge
-
-If you participated in the IBM Quantum Challenge and would like to give us feedback, please fill out this 2-minute survey: https://qiskit.typeform.com/to/qgdGVl
