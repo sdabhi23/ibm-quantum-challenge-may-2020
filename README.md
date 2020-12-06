@@ -1,10 +1,8 @@
 # IBM Quantum Challenge exercises
 
-My solution of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge).
+My solution of the exercises in the IBM Quantum Challenge held in May 2020. The notebooks for problems are available at [qiskit-community/may4_challenge_exercises](https://github.com/qiskit-community/may4_challenge_exercises)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sdabhi23/ibm-quantum-challenge-2020/master)
-
-The original version is available on [qiskit-community/may4_challenge_exercises](https://github.com/qiskit-community/may4_challenge_exercises)
 
 ## What's in this repository?
 
